@@ -1,1 +1,2 @@
-# Unknown-Northern-Russia-ETS2-
+#Исходный код сайта Unknown Northern Russia [ETS2]
+Ну короче тут не своруешь сайт понимаешь.
